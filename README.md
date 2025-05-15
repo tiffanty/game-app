@@ -1,4 +1,4 @@
-UpRush is a game where you are a character stuck in an elevator shaft that is platforming up it to avoid the rising elevator. It features various GUI implementations such ass a start and game over screen. The player has the ability to move left and right, as well as jump and even dash with a limited energy bar that can be replenished by collected energy orbs. 
+UpRush is a game where you are a character stuck in an elevator shaft that is platforming up it to avoid the rising elevator. It features various GUI implementations such as a start and game over screen. The player has the ability to move left and right, as well as jump and even dash with a limited energy bar that can be replenished by collected energy orbs. 
 
 
 
